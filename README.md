@@ -1,5 +1,4 @@
-- Programmer and Front-End Developer ☝️
-- Eternal Computer Science student & self-taught 🔎
-- Advanced English 🌐
-- GameMaker 🕹️
-- Java, JavaScript, Angular, Typescript
+<#> Systems Administrator(Sysadmin)
+<#> Network Administrator
+<#> Ethical Hacker 
+
