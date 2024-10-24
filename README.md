@@ -35,7 +35,7 @@ Sou um profissional apaixonado por tecnologia com 22 anos, bacharel em **Ciênci
 ## 🚀 Projetos em Destaque
 - [**Projeto Angular**](https://github.com/seu_usuario/projeto-angular): Uma aplicação completa utilizando Angular e integração com API externa.
 - [**Sistema de Redes**](https://github.com/seu_usuario/sistema-de-redes): Sistema desenvolvido para monitoramento de redes em tempo real.
-- [**Painel de Controle MySQL**](https://github.com/seu_usuario/painel-mysql): Um painel de controle para administração de banco de dados MySQL com interface moderna.
+- [**Central de Serviços Compartilhados **](https://github.com/Magnook/CSC-M): Uma central de controle para administração de serviços em uma corporação usando MySQL, Apache, PHP, HTML & CSS.
 
 ---
 
