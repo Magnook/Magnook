@@ -23,17 +23,17 @@ Sou um profissional apaixonado por tecnologia com 22 anos, bacharel em **Ciênci
 ---
 
 ## 💻 Minhas Estatísticas no GitHub:
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANGOOK&show_icons=true&theme=radical)
+![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Magnook&show_icons=true&theme=radical)
 
 ---
 
 ## 🏆 Troféus de Contribuição:
-[![trophy](https://github-profile-trophy.vercel.app/?username=MAGNOOK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Magnook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 Atividade Recente:
-![Guilherme's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MAGNOOK&theme=github)
+![Guilherme's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Magnook&theme=github)
 
 ---
 
