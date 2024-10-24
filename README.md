@@ -41,5 +41,3 @@ Sou um profissional apaixonado por tecnologia com 22 anos, bacharel em **Ciênci
 - **LinkedIn**: [linkedin.com/in/guilherme-magno](https://linkedin.com/in/seu_linkedin)
 - **Twitter**: [twitter.com/guilherme](https://twitter.com/seu_twitter)
 
-## 📊 Atividade Recente:
-![Guilherme's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Magnook&theme=github)
