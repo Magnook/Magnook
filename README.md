@@ -4,7 +4,7 @@ Sou um profissional apaixonado por tecnologia com 22 anos, bacharel em **Ciênci
 ---
 
 ## 🚀 Habilidades Técnicas:
-- **Desenvolvimento Web**: Angular, JavaScript, CSS, HTML, PHP
+- **Desenvolvimento Web**: Angular, JavaScript, CSS, HTML, PHP, Bootstrap
 - **Banco de Dados**: MySQL
 - **Sistemas Operacionais**: Windows, Windows Server, Linux, Linux Server
 - **Virtualização**: Experiência em ambientes virtualizados
