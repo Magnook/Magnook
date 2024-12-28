@@ -41,5 +41,4 @@ Sou um profissional apaixonado por tecnologia com 22 anos, bacharel em **Ciênci
 
 ## 📫 Entre em contato:
 - **LinkedIn**: [linkedin.com/in/magnook](https://linkedin.com/in/magnook)
-- **Twitter**: [twitter.com/guilherme](https://twitter.com/seu_twitter)
 
