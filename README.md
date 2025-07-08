@@ -1,5 +1,5 @@
 # Olá! Eu sou Guilherme Magno 👋
-Sou um profissional apaixonado por tecnologia com 22 anos, bacharel em **Ciência da Computação** e 7 anos de experiência em T.I. Atualmente, atuo como **Administrador de Redes, Sistemas** e **Profissional de Segurança Cibernética**. Também sou **Analista de T.I** com foco em **desenvolvimento web** e administração de sistemas.
+Sou um profissional apaixonado por tecnologia com 22 anos, bacharel em **Ciência da Computação** e 7 anos de experiência em T.I. Atualmente, atuo como **Administrador de Redes, Sistemas** e **Profissional de Segurança Cibernética**. Também **Analista de T.I** com foco em **Administração de Sistema e Segurança**.
 
 ---
 
@@ -9,6 +9,7 @@ Sou um profissional apaixonado por tecnologia com 22 anos, bacharel em **Ciênci
 - **Sistemas Operacionais**: Windows, Windows Server, Linux, Linux Server
 - **Virtualização**: Experiência em ambientes virtualizados
 - **Administração de Redes e Sistemas**: Red Hat, Windows Server, Linux
+- **Segurança Cibernética**
 
 ---
 
